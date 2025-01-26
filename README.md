@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelsalam</h1>
 <h3 align="center">Backend developer specializing in C#, ASP.NET,I'm focused on learning and growing in my chosen field. My goal is to acquire the knowledge and skills needed to excel and lay a strong foundation for my future career.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aelomda&label=Profile%20views&color=0e75b6&style=flat" alt="aelomda" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aelomda" alt="aelomda" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack .net web(DEPI),AWS Cloud Computing,Professional Foundations**
+- 🌱 I’m currently learning **Full stack .net web(DEPI), AWS Cloud Computing, Professional Foundations**
 
 - 💬 Ask me about **anything related to technologies I work with**
 
