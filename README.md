@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelsalam</h1>
 <h3 align="center">Backend developer specializing in C#, ASP.NET,I'm focused on learning and growing in my chosen field. My goal is to acquire the knowledge and skills needed to excel and lay a strong foundation for my future career.</h3>
 
-- 🌱 I’m currently learning **Full stack .net web(DEPI), AWS Cloud Computing, Professional Foundations**
+- 🌱 I’m currently learning **Full stack .net web(DEPI)**
 
 - 💬 Ask me about **anything related to technologies I work with**
 
